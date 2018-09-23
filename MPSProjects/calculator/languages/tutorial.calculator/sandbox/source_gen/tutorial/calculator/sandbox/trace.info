@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1164879751025:jetbrains.mps.baseLanguage.structure.TryCatchStatement" />
+  <root nodeRef="r:2a442612-e00c-4494-85ee-ff5f234f282b(tutorial.calculator.sandbox)/8506787239682338879">
+    <file name="MyCalculator.java">
+      <node id="8506787239682338880" at="15,24,16,16" concept="4" />
+      <node id="8506787239682338882" at="16,16,17,16" concept="4" />
+      <node id="8506787239682338885" at="17,16,18,16" concept="4" />
+      <node id="8506787239682338880" at="19,9,20,53" concept="1" />
+      <node id="8506787239682338882" at="20,53,21,53" concept="1" />
+      <node id="8506787239682338885" at="21,53,22,53" concept="1" />
+      <node id="8506787239682338879" at="23,39,24,0" concept="5" />
+      <node id="8506787239682338879" at="25,5,26,58" concept="1" />
+      <node id="8506787239682338879" at="29,25,30,29" concept="1" />
+      <node id="8506787239682338879" at="30,29,31,36" concept="1" />
+      <node id="8506787239682338879" at="31,36,32,13" concept="1" />
+      <node id="8506787239682338879" at="32,13,33,51" concept="1" />
+      <node id="8506787239682338879" at="33,51,34,11" concept="1" />
+      <node id="8506787239682338879" at="34,11,35,21" concept="1" />
+      <node id="8506787239682338879" at="35,21,36,61" concept="1" />
+      <node id="8506787239682338879" at="36,61,37,29" concept="1" />
+      <node id="8506787239682338879" at="37,29,38,22" concept="1" />
+      <node id="8506787239682338879" at="38,22,39,61" concept="1" />
+      <node id="8506787239682338879" at="39,61,40,26" concept="1" />
+      <node id="8506787239682338879" at="40,26,41,22" concept="1" />
+      <node id="8506787239682338879" at="41,22,42,61" concept="1" />
+      <node id="8506787239682338879" at="42,61,43,27" concept="1" />
+      <node id="8506787239682338879" at="43,27,44,22" concept="1" />
+      <node id="8506787239682338879" at="44,22,45,30" concept="1" />
+      <node id="8506787239682338879" at="45,30,46,21" concept="1" />
+      <node id="8506787239682338879" at="49,0,50,0" concept="2" trace="listener" />
+      <node id="8506787239682338880" at="51,0,52,0" concept="2" trace="inputField_a" />
+      <node id="8506787239682338882" at="52,0,53,0" concept="2" trace="inputField_b" />
+      <node id="8506787239682338885" at="53,0,54,0" concept="2" trace="inputField_c" />
+      <node id="8506787239682338879" at="55,0,56,0" concept="2" trace="OutputField" />
+      <node id="8506787239682338879" at="60,51,61,15" concept="1" />
+      <node id="8506787239682338879" at="64,51,65,15" concept="1" />
+      <node id="8506787239682338879" at="68,52,69,15" concept="1" />
+      <node id="8506787239682338879" at="76,0,78,0" concept="3" trace="run#()V" />
+      <node id="8506787239682338879" at="59,0,63,0" concept="3" trace="insertUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="8506787239682338879" at="63,0,67,0" concept="3" trace="removeUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="8506787239682338879" at="67,0,71,0" concept="3" trace="changedUpdate#(Ljavax/swing/event/DocumentEvent;)V" />
+      <node id="8506787239682338879" at="74,22,78,7" concept="1" />
+      <node id="8506787239682338879" at="74,0,80,0" concept="3" trace="main#()V" />
+      <node id="8506787239682338879" at="18,16,25,5" concept="6" />
+      <node id="8506787239682338879" at="15,0,28,0" concept="3" trace="update#()V" />
+      <node id="8506787239682338879" at="29,0,48,0" concept="0" trace="MyCalculator#()V" />
+      <scope id="8506787239682338879" at="76,25,76,25" />
+      <scope id="8506787239682338879" at="23,0,24,0">
+        <var name="e" id="8506787239682338879" />
+      </scope>
+      <scope id="8506787239682338879" at="23,39,24,0" />
+      <scope id="8506787239682338879" at="60,51,61,15" />
+      <scope id="8506787239682338879" at="64,51,65,15" />
+      <scope id="8506787239682338879" at="68,52,69,15" />
+      <scope id="8506787239682338879" at="76,0,78,0" />
+      <scope id="8506787239682338879" at="19,9,22,53" />
+      <scope id="8506787239682338879" at="59,0,63,0">
+        <var name="event" id="8506787239682338879" />
+      </scope>
+      <scope id="8506787239682338879" at="63,0,67,0">
+        <var name="event" id="8506787239682338879" />
+      </scope>
+      <scope id="8506787239682338879" at="67,0,71,0">
+        <var name="event" id="8506787239682338879" />
+      </scope>
+      <scope id="8506787239682338879" at="74,22,78,7" />
+      <scope id="8506787239682338879" at="74,0,80,0" />
+      <scope id="8506787239682338879" at="15,24,26,58">
+        <var name="i_a" id="8506787239682338880" />
+        <var name="i_b" id="8506787239682338882" />
+        <var name="i_c" id="8506787239682338885" />
+      </scope>
+      <scope id="8506787239682338879" at="15,0,28,0" />
+      <scope id="8506787239682338879" at="29,25,46,21" />
+      <scope id="8506787239682338879" at="29,0,48,0" />
+      <unit id="8506787239682338879" at="75,35,78,5" name="tutorial.calculator.sandbox.MyCalculator$1" />
+      <unit id="8506787239682338879" at="58,0,73,0" name="tutorial.calculator.sandbox.MyCalculator$MyListener" />
+      <unit id="8506787239682338879" at="13,0,86,0" name="tutorial.calculator.sandbox.MyCalculator" />
+    </file>
+  </root>
+</debug-info>
+
